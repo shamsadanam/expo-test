@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "af7b78a6-a2c0-4889-bc04-75b4ed6114c7"
+      }
+    },
+    "owner": "critdamage"
   }
 }
